@@ -1,0 +1,13 @@
+[package]
+name = "school21-rust-libft"
+version = "0.1.0"
+authors = ["Rustam SecondFry Gubaydullin <secondfry@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+[[bin]]
+name = "school21-rust-libft"
+path = "main.rs"
