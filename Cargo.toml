@@ -3,7 +3,7 @@ name = "secondfry-libft"
 version = "0.1.0"
 authors = ["Rustam SecondFry Gubaydullin <secondfry@gmail.com>"]
 description = "Ecole 42 libft project written in Rust"
-license-file = "LICENSE"
+license = "MIT"
 edition = "2018"
 repository = "https://github.com/secondfry/school21-rust-libft"
 
