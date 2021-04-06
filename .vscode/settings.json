@@ -1,4 +1,5 @@
 {
     "license.author": "Rustam SecondFry Gubaydullin",
-    "license.year": "auto"
+    "license.year": "auto",
+    "debug.allowBreakpointsEverywhere": true
 }
